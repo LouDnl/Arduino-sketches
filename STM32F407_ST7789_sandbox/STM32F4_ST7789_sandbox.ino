@@ -1,5 +1,5 @@
 /* 
- * Board Managaer package: STM32 Cores by STMicroelectronics
+ * Board Manager package: STM32 Cores by STMicroelectronics
  * Board: Generic STM32F4 series
  * Board part number: Black F407VE
  * TFT library: https://github.com/ananevilya/Arduino-ST7789-Library
